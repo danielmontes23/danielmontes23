@@ -9,7 +9,12 @@
 - SQL
 - Bilingual 
 - Backing up trailers
-  
+
+# Currently learning
+- Web Development
+- R
+- Orange
+    
 
 <!--
 **danielmontes23/danielmontes23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
