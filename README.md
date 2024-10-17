@@ -10,7 +10,7 @@
 - Bilingual 
 - Backing up trailers
 
-# Currently learning
+# Currently Learning
 - Web Development
 - R
 - Orange
