@@ -7,6 +7,8 @@
 - Python
 - Java
 - SQL
+- HTML
+- CSS
 - Bilingual 
 - Backing up trailers
 
@@ -14,7 +16,7 @@
 - Web Development
 - R
 - Orange
-    
+- JavaScript
 
 <!--
 **danielmontes23/danielmontes23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
