@@ -18,7 +18,8 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 - JavaScript
 
 <img src="https://www.atozflags.com/cdn/shop/products/146030521B2_600x.jpg?v=1677470844" alt="Flag Image" style="width:100%; height:auto;">
-**danielmontes23/danielmontes23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **danielmontes23/danielmontes23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,5 +30,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...  -->
