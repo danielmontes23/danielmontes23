@@ -1,5 +1,6 @@
 # Biography
-<blockquote>I am from a small town called Prosser, Washington. I started at EWU in 2020 with no idea what to major in until I stumbled upon the Bachelors in Computer Science major. I do have a minor in Communications, Spanish, and I am currently working on my Cyber Security minor. I currently work at the Center for Academic Advising and Retention(CAAR) on the Cheney campus as an office aid.</blockquote>
+<blockquote>
+My name is Daniel, and I am from Prosser, Washington. I began my studies at Eastern Washington University (EWU) in 2020, initially unsure of what to major in. However, I later discovered the Bachelor's program in Computer Science, which piqued my interest. In addition to my major, I have minors in Communications and Spanish, and I am currently pursuing a minor in Cybersecurity. I also work as an office aide at the Center for Academic Advising and Retention (CAAR) on the Cheney campus. Outside of academics, I have a passion for sneakers, sports, and cars.</blockquote>
 
 # Skills
 - Python
