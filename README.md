@@ -8,14 +8,16 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 - SQL
 - HTML
 - CSS
+- JavaScript
+- Orange
+- R
+- Astro
+- C
 - Bilingual 
 - Backing up trailers
 
 # Currently Learning
-- Web Development
-- R
-- Orange
-- JavaScript
+- CudaCore
 
 <img src="https://www.atozflags.com/cdn/shop/products/146030521B2_600x.jpg?v=1677470844" alt="Flag Image" style="width:100%; height:auto;">
 
