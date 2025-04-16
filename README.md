@@ -2,6 +2,10 @@
 <blockquote>
 My name is Daniel, and I am from Prosser, Washington. I began my studies at Eastern Washington University (EWU) in 2020, initially unsure of what to major in. However, I later discovered the Bachelor's program in Computer Science, which piqued my interest. In addition to my major, I have minors in Communications and Spanish, and I am currently pursuing a minor in Cybersecurity. I also work as an office aide at the Center for Academic Advising and Retention (CAAR) on the Cheney campus. Outside of academics, I have a passion for sneakers, sports, and cars.</blockquote>
 
+# Social Links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-montes-095602192/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=CodePen&logoColor=white)](https://codepen.io/danielmontes23)
+
 # Skills
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white)](https://www.java.com/)
