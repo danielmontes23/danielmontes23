@@ -23,4 +23,4 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 # Currently Learning
 [![CudaCore](https://img.shields.io/badge/-CudaCore-76B900?logo=NVIDIA&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
-![EWU Catalyst Building](https://cdn.ewu.edu/wp-content/uploads/2024/11/2024-3-14-Catalyst-Beauty-Shots-3.png)
+<!-- ![EWU Catalyst Building](https://cdn.ewu.edu/wp-content/uploads/2024/11/2024-3-14-Catalyst-Beauty-Shots-3.png) -->
