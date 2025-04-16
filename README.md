@@ -35,4 +35,5 @@
 # Currently Learning
 [![CudaCore](https://img.shields.io/badge/-CudaCore-76B900?logo=NVIDIA&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
+EWU Email | dmontes2@ewu.edu
 <!-- ![EWU Catalyst Building](https://cdn.ewu.edu/wp-content/uploads/2024/11/2024-3-14-Catalyst-Beauty-Shots-3.png) -->
