@@ -1,8 +1,7 @@
 # Biography
-<blockquote>
-Hello, my name is Daniel, and I’m from Prosser, Washington. I began my academic journey at Eastern Washington University (EWU) in 2020, initially exploring different fields before discovering my passion for Computer Science. Since then, I’ve been pursuing a Bachelors of Science in Computer Science, complemented by minors in Communications and Spanish. I’m also currently working toward a minor in Cybersecurity to further expand my technical knowledge and career options.
+<blockquote>Hello, my name is Daniel, and I’m from Prosser, Washington. I began my academic journey at Eastern Washington University (EWU) in 2020, initially exploring different fields before discovering my passion for Computer Science. Since then, I’ve been pursuing a Bachelors of Science in Computer Science, complemented by minors in Communications and Spanish. I’m also currently working toward a minor in Cybersecurity to further expand my technical knowledge and career options.</blockquote>
 
-In addition to my studies, I work as an office aide at the Center for Academic Advising and Retention (CAAR) on the Cheney campus, where I support student services and gain valuable professional experience. Outside the classroom, I’m an avid fan of sneakers, sports, and cars — interests that keep me inspired and connected to the world beyond academics.</blockquote>
+<blockquoteIn addition to my studies, I work as an office aide at the Center for Academic Advising and Retention (CAAR) on the Cheney campus, where I support student services and gain valuable professional experience. Outside the classroom, I’m an avid fan of sneakers, sports, and cars — interests that keep me inspired and connected to the world beyond academics.</blockquote>
 
 # Social Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-montes-095602192/)
