@@ -6,6 +6,14 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-montes-095602192/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=CodePen&logoColor=white)](https://codepen.io/danielmontes23)
 
+# Tools and Platforms
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)](https://github.com/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=CodePen&logoColor=white)](https://codepen.io/)
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white)](https://vercel.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=IntelliJ-IDEA&logoColor=white)](https://www.jetbrains.com/idea/)
+[![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
+
 # Skills
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white)](https://www.java.com/)
@@ -20,7 +28,6 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Bilingual](https://img.shields.io/badge/-Bilingual-009688?logo=Language&logoColor=white)](#)
-
 
 # Currently Learning
 [![CudaCore](https://img.shields.io/badge/-CudaCore-76B900?logo=NVIDIA&logoColor=white)](https://developer.nvidia.com/cuda-zone)
