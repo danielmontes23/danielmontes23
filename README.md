@@ -12,6 +12,7 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white)](https://vercel.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=IntelliJ-IDEA&logoColor=white)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](https://www.jetbrains.com/pycharm/)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 
 # Skills
