@@ -1,4 +1,4 @@
-<div style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fphotos%2Fgrey-clean-background.html&psig=AOvVaw0jNMx6fNzcRVY1C8uudeqy&ust=1744927057890000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCfr_3F3YwDFQAAAAAdAAAAABAT'); background-size: cover; padding: 20px;">
+<div style="background-image: url(['https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fphotos%2Fgrey-clean-background.html&psig=AOvVaw0jNMx6fNzcRVY1C8uudeqy&ust=1744927057890000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCfr_3F3YwDFQAAAAAdAAAAABAT](https://wallpapers.com/images/hd/street-lamps-at-night-dark-gray-x7i2r9vdshru8hr6.jpg)'); background-size: cover; padding: 20px;">
 
 # Biography
 <blockquote>
