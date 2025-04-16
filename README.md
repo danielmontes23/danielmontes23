@@ -3,9 +3,6 @@
 
 <blockquote>In addition to my studies, I work as an office aide at the Center for Academic Advising and Retention (CAAR) on the Cheney campus, where I assist students and support the advising team based on individual needs. Outside of school, you can usually find me watching sports, catching up on TV shows, or deep into whatever video game I’m currently hooked on.</blockquote>
 
-# Email
-School: dmontes2@ewu.edu
-
 # Social Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-montes-095602192/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=CodePen&logoColor=white)](https://codepen.io/danielmontes23)
