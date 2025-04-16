@@ -22,6 +22,7 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Orange](https://img.shields.io/badge/-Orange-FFA500?logo=Orange&logoColor=white)](https://orangedatamining.com/)
 [![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)](https://www.r-project.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
