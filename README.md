@@ -17,6 +17,8 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=Astro&logoColor=white)](https://astro.build/)
+[![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Bilingual](https://img.shields.io/badge/-Bilingual-009688?logo=Language&logoColor=white)](#)
 
 
