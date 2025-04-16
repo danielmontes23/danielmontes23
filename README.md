@@ -14,10 +14,9 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 [![Astro](https://img.shields.io/badge/-Astro-FF5A03?logo=Astro&logoColor=white)](https://astro.build/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Bilingual](https://img.shields.io/badge/-Bilingual-009688?logo=Language&logoColor=white)](#)
-[![Backing up trailers](https://img.shields.io/badge/-Backing_up_trailers-FF4500?logo=Truck&logoColor=white)](#)
+
 
 # Currently Learning
-
 [![CudaCore](https://img.shields.io/badge/-CudaCore-76B900?logo=NVIDIA&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
 <img src="https://www.atozflags.com/cdn/shop/products/146030521B2_600x.jpg?v=1677470844" alt="Flag Image" style="width:100%; height:auto;">
