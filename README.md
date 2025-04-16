@@ -23,4 +23,6 @@ My name is Daniel, and I am from Prosser, Washington. I began my studies at East
 # Currently Learning
 [![CudaCore](https://img.shields.io/badge/-CudaCore-76B900?logo=NVIDIA&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
-<div style="background-image: url('https://wallpapers.com/images/hd/street-lamps-at-night-dark-gray-x7i2r9vdshru8hr6.jpg'); background-size: cover; padding: 20px;">
+<div style="background-image: url('https://wallpapers.com/images/hd/street-lamps-at-night-dark-gray-x7i2r9vdshru8hr6.jpg'); background-size: cover; padding: 20px; height: 300px; width: 100%;">
+    <!-- Add some content here if needed -->
+</div>
