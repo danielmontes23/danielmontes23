@@ -15,6 +15,7 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=IntelliJ-IDEA&logoColor=white)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
+[![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=RStudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
 <!-- [![PyCharm](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)](https://www.jetbrains.com/pycharm/) -->
 
 # Skills
